@@ -8,7 +8,7 @@
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://red-rock-011bd5d00.3.azurestaticapps.net">Perin Mangukiya</a></b>
         </samp>
-</h3>
+</h3> 
 
 
 <p align="center"> 
