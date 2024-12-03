@@ -6,7 +6,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://red-rock-011bd5d00.3.azurestaticapps.net">Perin Mangukiya</a></b>
+                <b>Perin Mangukiya</b>
         </samp>
 </h3> 
 
@@ -22,10 +22,10 @@
 </p>
 
 <p align="center">
- <a href="https://red-rock-011bd5d00.3.azurestaticapps.net" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="perin" />
+ <a href="mailto:mangukiyaperin3016@gmail.com" target="blank">
+  <img src="https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="perin" />
  </a>
- <a href="https://www.linkedin.com/in/perin-mangukiya-b8a581201/" target="_blank">
+ <a href="https://www.linkedin.com/in/perin-mangukiya/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="perin"/>
  </a>
 </p>
@@ -73,6 +73,7 @@
 [![Github Users Search](https://github-readme-stats.vercel.app/api/pin/?username=perin-mangukiya&repo=github_user_search&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/perin-mangukiya/github_user_search)
 [![Horizon Full Stack Website](https://github-readme-stats.vercel.app/api/pin/?username=perin-mangukiya&repo=horizon-tech_fest_website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/perin-mangukiya/Horizon-Tech_Fest_Website)
 [![Git Implementation](https://github-readme-stats.vercel.app/api/pin/?username=perin-mangukiya&repo=Git_Implementation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/perin-mangukiya/Git_Implementation)
+
 
 
 <p align="left"> 
