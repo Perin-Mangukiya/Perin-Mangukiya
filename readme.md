@@ -73,7 +73,7 @@
 [![Github Users Search](https://github-readme-stats.vercel.app/api/pin/?username=perin-mangukiya&repo=github_user_search&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/perin-mangukiya/github_user_search)
 [![Horizon Full Stack Website](https://github-readme-stats.vercel.app/api/pin/?username=perin-mangukiya&repo=horizon-tech_fest_website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/perin-mangukiya/Horizon-Tech_Fest_Website)
 [![Shell Implementation](https://github-readme-stats.vercel.app/api/pin/?username=perin-mangukiya&repo=Shell_Implementation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/perin-mangukiya/Shell_Implementation)
-[![Git Implementation](https://github-readme-stats.vercel.app/api/pin/?username=perin-mangukiya&repo=Shell_Implementation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/perin-mangukiya/Git_Implementation)
+[![Git Implementation](https://github-readme-stats.vercel.app/api/pin/?username=perin-mangukiya&repo=Git_Implementation&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/perin-mangukiya/Git_Implementation)
 
 
 <p align="left"> 
